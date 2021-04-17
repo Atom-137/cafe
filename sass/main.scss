@@ -4,6 +4,8 @@ $border-color: #eee;
 //Bootstrap:
 @import "../bootstrap/scss/bootstrap"; //
 
+
+
 body {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
@@ -12,6 +14,12 @@ body {
 .banner-principal{
   background-color: white;
 }
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .logo{
   height: 75px;
 }
